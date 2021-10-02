@@ -1,13 +1,17 @@
-#Crud en php
-
-##Nota
+# Crud en php
 
 Es un sistema que contiene un login, un registro 
 y se conecta a una base de datos postgres
 
-```
-php.ini debe tener habilitado las extensiones de 
+## Nota
+
+el archivo php.ini debe tener habilitado las extensiones de:
+
+``` 
 extension=pdo_pgsql
+```
+
+```
 extension=pgsql
 ```
 
